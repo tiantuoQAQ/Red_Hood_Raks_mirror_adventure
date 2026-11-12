@@ -173,3 +173,5 @@ node test/config_check.js   # 调参面板与 CFG 字段是否对得上
 - 目前只有 1 个 BOSS、4 种弹幕招式，没有音效和 BGM。
 - 镜像轴的「反射」玩法（把弹幕打回去）尚未实现，是下一步的候选方向。
 - 没有存档、没有菜单，`R` 直接重开。
+- <img width="1712" height="959" alt="image" src="https://github.com/user-attachments/assets/91c44ef6-c864-4042-95b6-839987e5f479" />
+
